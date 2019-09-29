@@ -1,2 +1,2 @@
 # learning-git-hup
-test repo
+test repo GIT HUP
